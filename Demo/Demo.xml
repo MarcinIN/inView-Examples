@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Demo</Title>
+  <ID>307803ff-746a-44cb-aa12-8751a8808664</ID>
+  <Version>1.0.0.0</Version>
+  <TargetSDK>0.5</TargetSDK>
+  <Includes>
+    <Include Type="Config" Path="Config.xml" />
+    <Include Type="Page" Path="Pages/HomePage.xml" />
+  </Includes>
+</Project>
