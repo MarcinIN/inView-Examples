@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Title>Demo</Title>
-  <ID>307803ff-746a-44cb-aa12-8751a8808664</ID>
+  <Title>DevProject</Title>
+  <ID>0c817fc1-e1f6-46af-9e3e-e4f8a205cfa4</ID>
   <Version>1.0.0.0</Version>
   <TargetSDK>0.5</TargetSDK>
+  <Connectors />
   <Includes>
     <Include Type="Config" Path="Config.xml" />
     <Include Type="Page" Path="Pages/HomePage.xml" />
+    <Include Type="Page" Path="Pages/SecondPage.xml" />
+    <Include Type="Page" Path="Pages/TestPage.xml" />
   </Includes>
 </Project>
